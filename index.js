@@ -12,6 +12,12 @@ app.get('/about', (req, res) => {
   res.end(`<h1>About World</h1>`)
 })
 
+
+const some = require("./some.json")
+app.get('/some.json', (req, res) => {
+  res.end(some)
+})
+
 app.listen(PORT, () => {
 
   console.log('APP STARTED  !!! ---')
