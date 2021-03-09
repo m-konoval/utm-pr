@@ -10,7 +10,7 @@ app.get('/', (req, res) => {
 })
 
 
-const some = require("./apple-app-site-association.json")
+const some = require("./apple-app-site-association")
 app.get('/apple-app-site-association.json', (req, res) => {
   res.json(some)
 })
