@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.moneyveo",
+    "sha256_cert_fingerprints": ["5f:82:3a:ef:54:6c:a3:29:33:69:38:9e:8b:47:b6:7a:d9:8d:b9:4c:50:72:1d:67:95:77:99:2e:af:6b:87:4f"] }
+}]
