@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b115429e-9914-4630-871c-878e3798e71d" name="Default Changelist" comment="">
+    <list default="true" id="b115429e-9914-4630-871c-878e3798e71d" name="Default Changelist" comment="an">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
@@ -21,11 +39,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -36,11 +60,90 @@
       <option name="presentableId" value="Default" />
       <updated>1614701972852</updated>
       <workItem from="1614701974252" duration="8046000" />
-      <workItem from="1615294015558" duration="1625000" />
+      <workItem from="1615294015558" duration="2393000" />
+      <workItem from="1615378255778" duration="597000" />
+      <workItem from="1615394141456" duration="705000" />
+      <workItem from="1615465455278" duration="1546000" />
+      <workItem from="1615490128657" duration="14000" />
     </task>
+    <task id="LOCAL-00001" summary=".json">
+      <created>1615316827256</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615316827256</updated>
+    </task>
+    <task id="LOCAL-00002" summary="hh">
+      <created>1615319834010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615319834010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="and">
+      <created>1615465646777</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615465646777</updated>
+    </task>
+    <task id="LOCAL-00004" summary="an">
+      <created>1615465790618</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615465790618</updated>
+    </task>
+    <task id="LOCAL-00005" summary="an">
+      <created>1615465988660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615465988660</updated>
+    </task>
+    <task id="LOCAL-00006" summary="an">
+      <created>1615476221254</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615476221254</updated>
+    </task>
+    <task id="LOCAL-00007" summary="an">
+      <created>1615482809080</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1615482809080</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=".json" />
+    <MESSAGE value="hh" />
+    <MESSAGE value="and" />
+    <MESSAGE value="an" />
+    <option name="LAST_COMMIT_MESSAGE" value="an" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1615482812153">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1615482812153" />
   </component>
 </project>

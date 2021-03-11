@@ -15,10 +15,10 @@ app.get('/apple-app-site-association', (req, res) => {
   res.json(ios)
 })
 
-// const android = require("./.well-known/assetlinks.json")
-// app.get('/.well-known/assetlinks', (req, res) => {
-//   res.json(android)
-// })
+const android = require("./.well-known/assetlinks.json")
+app.get('/.well-known/assetlinks', (req, res) => {
+  res.json(android)
+})
 
 app.listen(PORT, () => {
   console.log('APP STARTED  !!! --- http://localhost:8080')
