@@ -13,9 +13,10 @@ const home = `
     <h1>HTML HOME PAGE</h1>
     
     <table>
+        <thead><tr><td> PHONE </td></tr></thead>
         <tbody>
-            <tr><a href="/apple-app-site-association">ios</a></tr>
-            <tr><a href="/.well-known/assetlinks">android </a></tr>
+            <tr><td><a href="/apple-app-site-association">ios</a></td></tr>
+            <tr><td><a href="/.well-known/assetlinks">android </a></td></tr>
         </tbody>
     </table>
 
