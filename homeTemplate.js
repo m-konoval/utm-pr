@@ -8,7 +8,7 @@ const home = `
     <title>Document</title>
 <link rel="alternate" href="android-app://com.moneyveo/https/moneyveo.ua/.*" />
 <link rel="alternate" href="android-app://com.moneyveo/https/client-veo-fd-ua.moneyveo.local/.*" />
-<link rel="alternate" href="android-app://com.moneyveo/https/utm-test-pr.herokuapp.com/.*" />x
+<link rel="alternate" href="android-app://com.moneyveo/https/utm-test-pr.herokuapp.com/.*" />
 </head>
 <body>
 
